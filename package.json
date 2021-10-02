@@ -1,0 +1,27 @@
+{
+  "name": "module3-week5day3-labassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass -o css/ css/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvyLiu0/Module3-Week5Day3-LabAssignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvyLiu0/Module3-Week5Day3-LabAssignment/issues"
+  },
+  "homepage": "https://github.com/IvyLiu0/Module3-Week5Day3-LabAssignment#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "parallelshell": "^3.0.1"
+  },
+  "dependencies": {
+    "lite": "^4.0.5"
+  }
+}
